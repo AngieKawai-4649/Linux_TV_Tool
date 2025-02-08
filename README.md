@@ -18,7 +18,7 @@
   $ ./eit_scan --pid 999 --sid 999 --file file path  
       \--pid   PID(0x12 or 0x26 or 0x27 PID オプション省略時は0x12がデフォルト)  
       \--sid   指定したSIDのEITのみ出力  
-      \--file  TSファイル名を指定
+      \--file  TSファイル名を指定  
   注：TSファイルはEDCBで作成したEPGファイルでも可能
 -  **[ts_dump]**  
   mpeg2-TSファイル (1packet 188byte) をダンプ出力するツール  
